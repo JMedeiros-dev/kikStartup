@@ -1,0 +1,193 @@
+
+.sign-up {
+	background-color: #ed4e23 !important;
+	border: #ed4e23 !important;
+}
+
+
+.sign-up:hover {
+	background-color: #f8a15e !important;
+}
+
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 96px;
+	line-height: 104px;
+}
+
+h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 48px;
+	margin-top: 30px;
+}
+
+p {
+	font-family: 'Oxygen', sans-serif;
+}
+
+.subtitle {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 32px;
+}
+
+.fa-bars {
+	color: #e8e8e8;
+	font-size: 30px;
+}
+
+.footer {
+	background-color: #cfdefd;
+	height: 20vh;
+	width: 100vw;
+	margin: auto;
+}
+
+.footer_item {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 20px;
+}
+
+.logo {
+	font-family: 'Baloo Tammudu 2', cursive;
+	margin-top: 25vh !important;
+}
+
+.logo-small {
+	font-family: 'Baloo Tammudu 2', cursive !important;
+}
+
+.logo-dash {
+	color: #ed4e23 !important;
+	font-size: 36px !important;
+	padding: 0;
+}
+
+.login-form {
+	margin: auto;
+}
+
+#mark {
+	height: 18px;
+}
+
+.create-job-text {
+	margin-top: 8vh !important;
+	font-size: 36px;
+	font-family: 'Oxygen', sans-serif;	
+}
+
+.box {
+	margin: auto;
+}
+
+.profile-div {
+	margin: auto;
+	border-radius: 8px;
+	min-height: 12vh;
+	padding: 4px;
+	padding-left: 10px;
+}
+
+.profile-list-item {
+	text-decoration: none !important;
+	list-style: none !important;
+	font-family: 'Oxygen', sans-serif;
+	color: black;
+}
+
+.profile-pic {
+	width: 170px;
+	height: 170px;
+	margin: auto;
+	border-radius: 8px;
+}
+
+.post-date {
+	font-size: 12px;
+}
+
+.post-pic {
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+} 
+
+.dash-pic {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+
+.post-name {
+	text-decoration: none !important;
+	font-family: 'Oxygen', sans-serif;
+	color: black;
+}
+
+.table-btn {
+	border: none;
+	background: transparent;
+}
+
+.table-btn:hover {
+	color: #6c757d;
+}
+
+
+/* Dark Theme */
+
+body.dark-theme {
+  color: #eee;
+  background: #121212;
+}
+
+body.dark-theme a {
+  color: #809fff;
+}
+
+body.dark-theme .nav{
+  background: #121212;
+  color: #eee;
+}
+
+body.dark-theme a.nav-link{
+  color: #eee !important;
+}
+
+body.dark-theme .bg-white {
+  background: #121212 !important;
+  color: #eee;
+}
+
+body.dark-theme .bg-light {
+  background: #232222!important;
+  color: #eee;
+}
+
+body.dark-theme .modal-body {
+  background: #232222!important;
+  color: #eee;
+}
+
+body.dark-theme .modal-header {
+  background: #232222!important;
+  color: #eee;
+}
+
+body.dark-theme .dropdown-menu {
+	background: #121212 !important;
+  	color: #eee !important;
+}
+
+body.dark-theme .btn-light {
+  background: #232222!important;
+  border: none;
+  color: #eee;
+}
+
+body.dark-theme fa-bars:before {
+	color: #ed4e23;
+	font-size: 30px;
+}
+
