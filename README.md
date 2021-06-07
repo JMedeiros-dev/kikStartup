@@ -1,1 +1,1 @@
-# kikStartup
+# Kik Startup
